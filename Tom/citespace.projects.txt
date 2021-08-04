@@ -1,0 +1,168 @@
+Title:Demo 1: Terrorism (1996-2003)
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\.citespace\Examples\WoS\Terrorism1990-2003\project
+DataHome:C:\Users\Li\.citespace\Examples\WoS\Terrorism1990-2003\data
+DataSource:WoS
+Description:This is a demo project on Terrorism research (1990-2003).
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:PRE
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\1\project
+DataHome:C:\Users\Li\Desktop\1\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:Try
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:D:\cites\project
+DataHome:D:\cites\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2016
+End:2019
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:Untitled
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\.citespace\Examples\Projects
+DataHome:C:\Users\Li\.citespace\Examples\Data
+DataSource:WoS
+Description:This is a template. Please edit before use.
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:Untitled666
+TimeStamp:May 17, 2021 2:28:14 PM CST
+ProjectHome:C:\Users\Li\Desktop\6\project
+DataHome:C:\Users\Li\Desktop\6\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:demo2
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\1\project
+DataHome:C:\Users\Li\Desktop\1\data
+DataSource:CSSCI
+Description:How did you create the dataset?
+Begin:2015
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:laji
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\2\project
+DataHome:C:\Users\Li\Desktop\2\data
+DataSource:CSSCI
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:newlaji
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\3\project
+DataHome:C:\Users\Li\Desktop\3\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:noway
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\.citespace\Examples\Projects
+DataHome:C:\Users\Li\.citespace\Examples\Data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:不知道
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\5\project
+DataHome:C:\Users\Li\Desktop\5\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:呢哇laji
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\4\project
+DataHome:C:\Users\Li\Desktop\4\data
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
+Title:我是垃圾
+TimeStamp:May 17, 2021 12:46:58 PM CST
+ProjectHome:C:\Users\Li\Desktop\5\project
+DataHome:C:\Users\Li\Desktop\5
+DataSource:WoS
+Description:How did you create the dataset?
+Begin:2008
+End:2020
+LinkRetainingFactor:3
+MaxLinksPerNode:10
+LookBackYears:5
+MinimumThresholdValue:1.0
+LinkWeightModificationRate:0.00000000001
+
